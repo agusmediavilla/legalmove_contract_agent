@@ -1,0 +1,23 @@
+# variables locales / credenciales
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# entornos virtuales
+.venv/
+venv/
+
+# sistema/editor
+.DS_Store
+.vscode/
+.idea/
+
+# salidas generadas localmente
+sample_outputs/run_*.json

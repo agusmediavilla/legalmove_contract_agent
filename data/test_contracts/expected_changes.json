@@ -1,0 +1,51 @@
+{
+  "caso_1_software": {
+    "sections_changed": [
+      "1. Otorgamiento de Licencia",
+      "2. Plazo",
+      "3. Pago",
+      "4. Soporte",
+      "5. Terminación",
+      "7. Protección de Datos"
+    ],
+    "topics_touched": [
+      "alcance de licencia",
+      "plazo contractual",
+      "pago/licencia",
+      "soporte técnico",
+      "terminación",
+      "protección de datos"
+    ],
+    "summary_of_the_change": "La enmienda modifica el alcance operativo de uso del software, extiende el plazo de 12 a 24 meses, incrementa la tarifa anual de USD 12.000 a USD 15.000, amplía el soporte de correo electrónico a correo y chat, aumenta el preaviso de terminación de 30 a 60 días y agrega una cláusula de protección de datos."
+  },
+  "caso_2_consultoria": {
+    "sections_changed": [
+      "1. Alcance del Servicio",
+      "2. Duración",
+      "3. Honorarios",
+      "4. Entregables",
+      "7. Propiedad Intelectual"
+    ],
+    "topics_touched": [
+      "alcance del servicio",
+      "duración",
+      "honorarios",
+      "entregables",
+      "propiedad intelectual"
+    ],
+    "summary_of_the_change": "La enmienda agrega análisis regulatorio al alcance, extiende la duración de 6 a 9 meses, aumenta los honorarios mensuales de USD 8.000 a USD 9.500, cambia la periodicidad de reportes de mensual a quincenal y añade que los entregables serán propiedad del Cliente una vez realizado el pago final."
+  },
+  "caso_3_saas": {
+    "sections_changed": [
+      "3. Precio",
+      "4. Disponibilidad del Servicio",
+      "5. Soporte"
+    ],
+    "topics_touched": [
+      "precio",
+      "nivel de servicio/SLA",
+      "soporte"
+    ],
+    "summary_of_the_change": "La versión actualizada aumenta la tarifa mensual de USD 1.200 a USD 1.250, eleva la disponibilidad garantizada del 99,5% al 99,9% y amplía el soporte desde correo electrónico a correo electrónico más sistema de tickets en línea."
+  }
+}

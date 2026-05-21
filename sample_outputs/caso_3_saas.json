@@ -1,0 +1,13 @@
+{
+  "sections_changed": [
+    "3. Precio",
+    "4. Disponibilidad del Servicio",
+    "5. Soporte"
+  ],
+  "topics_touched": [
+    "precio",
+    "nivel de servicio/SLA",
+    "soporte"
+  ],
+  "summary_of_the_change": "La versión actualizada aumenta la tarifa mensual de USD 1.200 a USD 1.250, eleva la disponibilidad garantizada del 99,5% al 99,9% y amplía el soporte desde correo electrónico a correo electrónico más sistema de tickets en línea."
+}
